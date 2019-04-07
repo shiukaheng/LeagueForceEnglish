@@ -6,4 +6,3 @@ This should not got you banned as it only restarts League of Legends in English 
   - As long as the script is running League of Legends should launch in English.
 - Todo:
   - Turn it into a tray app
-![alt text](https://i.ibb.co/B23qYLM/LoLEng.png)
