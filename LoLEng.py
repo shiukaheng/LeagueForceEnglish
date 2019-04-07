@@ -3,7 +3,6 @@ import shlex
 import time
 import csv
 import os
-##THANK HENG FOR THIS SHIT##
 print("Please note this script requires adminstrator privileges.")
 print("Waiting of League of Legends instance.")
 def check_TW_league():
@@ -25,7 +24,7 @@ def check_TW_league():
             os.system(command)
             return True
         else:
-            print("Englesh League of Legends instance detected and ignored.")
+            print("English League of Legends instance detected and ignored.")
             return False
 
 while True:
