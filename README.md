@@ -1,4 +1,4 @@
-# LolEng
+# LolEng ![alt text](https://i.ibb.co/B23qYLM/LoLEng.png)
 A script that forces Garena League of Legends to run in English.
 This should not got you banned as it only restarts League of Legends in English once a non-English instance is detected. No files are modified.
 - Tutorial:
