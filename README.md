@@ -1,4 +1,4 @@
-# ![alt text](https://i.ibb.co/Sc489w0/Lo-LEng-Small.png) League of Legends English Restarter
+# ![alt text](https://i.ibb.co/Sc489w0/Lo-LEng-Small.png) Force English language for LoL in Garena regions
 A script that forces Garena League of Legends to run in English.
 This should not got you banned as it only restarts League of Legends in English once a non-English instance is detected. No files are modified.
 - Tutorial:
