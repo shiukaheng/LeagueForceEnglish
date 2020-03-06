@@ -1,4 +1,7 @@
 # ![alt text](https://i.ibb.co/Sc489w0/Lo-LEng-Small.png) Force English language for LoL in Garena regions
+
+## [DOWNLOAD](https://github.com/shiukaheng/LeagueForceEnglish/releases)
+
 A script that forces Garena League of Legends to run in English.
 This shouldn't get you banned as it only restarts League of Legends in English once a non-English instance is detected. No files are modified.
 - Tutorial:
